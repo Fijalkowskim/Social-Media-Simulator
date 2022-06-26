@@ -1,0 +1,14 @@
+#U
+3
+Agata
+Kozdron
+Gliwice, Polska
+Jestem nauczycielka.
+35
+F
+Resources\Pictures\Agata.png
+#F
+1
+2
+6
+0

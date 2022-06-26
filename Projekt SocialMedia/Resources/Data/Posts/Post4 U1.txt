@@ -1,0 +1,16 @@
+#P
+4
+1
+-1
+#IP
+Zdjecie mojego psa:
+Resources/Pictures/pies.png
+2022
+3
+1
+10
+0
+20
+#L
+2
+0

@@ -1,0 +1,16 @@
+#P
+12
+6
+0
+#IP
+Nowa konewka do podlewania
+Resources/Pictures/konewka.png
+2022
+6
+13
+21
+59
+52
+#L
+6
+0

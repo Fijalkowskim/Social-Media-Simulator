@@ -1,0 +1,16 @@
+#P
+11
+4
+1
+#TP
+Ciekawe czy beda hotdogi...
+2022
+14
+2
+13
+55
+4
+#L
+3
+6
+0

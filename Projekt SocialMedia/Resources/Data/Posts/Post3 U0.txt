@@ -1,0 +1,14 @@
+#P
+3
+0
+-1
+#VP
+Pozdrowienia z Hiszpani:
+Resources/Video/hiszpania.png
+2022
+5
+17
+19
+30
+20
+#L

@@ -1,0 +1,14 @@
+#U
+0
+Mateusz
+Fijalkowski
+Gliwice, Polska
+Witam serdecznie
+20
+M
+Resources/Pictures/Mateusz.png
+#F
+2
+1
+4
+3

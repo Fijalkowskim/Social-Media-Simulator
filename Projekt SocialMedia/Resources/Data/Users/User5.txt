@@ -1,0 +1,13 @@
+#U
+5
+Paulina
+Maslankiewicz
+Lodz, Polska
+Lubie zwierzeta i podroze
+29
+F
+Resources\Pictures\Paulina.png
+#F
+2
+3
+6

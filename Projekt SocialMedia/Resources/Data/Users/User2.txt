@@ -1,0 +1,13 @@
+#U
+2
+Jakub
+Krolik
+London, England
+Jakub here.
+45
+O
+Resources\Pictures\Jakub.png
+#F
+0
+1
+6

@@ -1,0 +1,18 @@
+#P
+9
+4
+-1
+#TP
+Bylem na nowych star warsach.
+2015
+1
+17
+21
+31
+4
+#L
+1
+2
+3
+4
+0

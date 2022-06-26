@@ -1,0 +1,14 @@
+#U
+4
+Alexander
+Smykulski
+Daleko, Polska
+Wiking
+67
+M
+Resources\Pictures\Aleksander.png
+#F
+0
+2
+3
+6

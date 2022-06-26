@@ -1,0 +1,14 @@
+#U
+6
+Robert
+Krasny
+Nowa Wies, Polska
+
+56
+M
+Resources/Pictures/default.png
+#F
+2
+3
+4
+5

@@ -1,0 +1,11 @@
+#G
+0
+Ogrodnicy
+Grupa fanow ogrodnictwa.
+#U
+0
+1
+2
+4
+5
+6

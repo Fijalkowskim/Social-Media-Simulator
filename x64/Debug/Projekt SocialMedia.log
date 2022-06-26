@@ -1,0 +1,198 @@
+﻿  DataManager.cpp
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\DataManager.cpp(390,9): warning C4101: 'views': unreferenced local variable
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\DataManager.cpp(426,6): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\DataManager.cpp(428,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GUIManager.cpp
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(22,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(29,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(43,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(193,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(196,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(198,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(200,82): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(205,81): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(207,78): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(209,84): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(212,109): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(220,78): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(227,81): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(237,78): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(239,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(250,78): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(252,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(254,86): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(256,85): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(258,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(260,89): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(265,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(267,78): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(269,86): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(271,89): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(274,83): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(282,86): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(293,78): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(295,85): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(297,86): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(299,83): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(306,84): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(313,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(324,88): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(326,89): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(328,89): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(330,89): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\Projekt SocialMedia\GUIManager.cpp(333,78): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Generating Code...
+  Projekt SocialMedia.vcxproj -> D:\1 Studia\PK\Programy\05d3c65f-gr62-repo\Projekt\Projekt SocialMedia\x64\Debug\Projekt SocialMedia.exe
